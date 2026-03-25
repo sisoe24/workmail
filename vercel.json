@@ -5,10 +5,5 @@
       "source": "/api/clock",
       "destination": "/api"
     }
-  ],
-  "functions": {
-    "api/*.py": {
-      "excludeFiles": "{tests/**,.ropeproject/**}"
-    }
-  }
+  ]
 }
