@@ -41,7 +41,7 @@ python3 main.py in
    - `WORKMAIL_RECEIVER`
    - `RESEND_API_KEY`
    - `WORKMAIL_FROM_EMAIL`
-3. Deploy. Vercel will expose the function at `/api/clock`.
+3. Deploy. Vercel will expose the Python function and route `/api/clock` to it.
 
 The endpoint only accepts:
 
